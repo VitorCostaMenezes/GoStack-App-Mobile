@@ -1,0 +1,6 @@
+se apresentar o erro abaixo ao startar o app
+Error: EACCES: permission denied, open '/tmp/haste-map-metro-4-7ce96ef16b00ba042fc55691d4f3beac-de4384d68f007a2ca9038b4d4de7b34e'
+executar o comando abaixo:
+    chmod -R 0777 /tmp
+
+se ficar tela branca , ir nas configurações de app no proprio aparelho e apagar os dados do aplicativo
